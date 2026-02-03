@@ -41,10 +41,24 @@ Ce projet a pour objectif de construire un **système de scoring de risque** per
 --
 
 ## Données
+**Important**  
+Le fichier `data/creditcard.csv` n est **pas versionne dans ce depot** afin de respecter les limites de taille de GitHub
+
+### Comment recuperer le dataset
+1. Telecharger le dataset sur Kaggle  
+   Credit Card Fraud Detection
+2. Placer le fichier CSV dans le dossier :
+data/creditcard.csv
+Aucune autre modification n est necessaire.
+
+---
+
 - Dataset : **Credit Card Fraud Detection (Kaggle)**
 - Environ 285 000 transactions
 - Taux de fraude ≈ **0,17 %**
 - Variables :
+
+
   - `Time` : temps écoulé depuis la première transaction (en secondes)
   - `Amount` : montant de la transaction
   - `V1` à `V28` : variables anonymisées
