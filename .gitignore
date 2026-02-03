@@ -3,7 +3,5 @@ data/
 *.csv
 
 # Model artifacts / outputs
-models/
-outputs/
 __pycache__/
 .venv/
