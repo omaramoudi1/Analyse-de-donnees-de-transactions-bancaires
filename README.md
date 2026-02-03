@@ -116,7 +116,7 @@ Ces résultats montrent que le modèle est capable de produire des alertes perti
 
 ## Organisation du projet
 ```BASH
-ANALYSE-DE-DONN-ES-DE-TRANSACTION-BANCAIRES/
+ANALYSE-DE-DONNEES-DE-TRANSACTION-BANCAIRES/
 ├── data/
 │ └── creditcard.csv
 ├── models/
